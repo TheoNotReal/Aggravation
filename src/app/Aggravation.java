@@ -33,7 +33,7 @@ public class Aggravation extends JFrame implements ActionListener {
     public static final int MAX_PLAYERS = 6;
     public static final int TOKENS_PER_PLAYER = 4;
 
-    private static final String GAME_TITLE = "Aggravation - by Jared Bennett";
+    private static final String GAME_TITLE = "Aggravation";
     private static final Border padding = BorderFactory.createEmptyBorder(10, 10, 10, 10);
 
     public static final Dimension
